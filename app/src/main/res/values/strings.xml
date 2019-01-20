@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="heading">Welcome To learnCode Online</string>
+    <string name="sub_heading">Best site For Developers</string>
+    <string name="learn">Learn</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="confirm_pwd">Confirm Password</string>
+</resources>
